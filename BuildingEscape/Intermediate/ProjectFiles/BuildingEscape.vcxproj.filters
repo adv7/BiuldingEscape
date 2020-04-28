@@ -42,4 +42,14 @@
       <Filter>Source\BuildingEscape</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\BuildingEscape\WorldPosition.h">
+      <Filter>Source\BuildingEscape</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\BuildingEscape\WorldPosition.cpp">
+      <Filter>Source\BuildingEscape</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
