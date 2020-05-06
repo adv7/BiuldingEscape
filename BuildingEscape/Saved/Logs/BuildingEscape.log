@@ -44432,3 +44432,342 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.06-21.25.18:776][240]LogPlayLevel: Display: Destroying online subsystem :Context_21
 [2020.05.06-21.28.16:229][110]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2020.05.06-21.28.16:229][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-21.29.48:403][140]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/M_Door_Material6DF29C6349C01FA8F25FFBBDCB360F20.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/M_Door_Material.uasset'
+[2020.05.06-21.29.48:431][140]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/DoorMaterialDC48FE7449689F14092C92BC9E70B73C.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/DoorMaterial.uasset'
+[2020.05.06-21.29.48:556][140]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.29.48:556][140]LogContentValidation: Display: Validating Material /Game/Materials/Materials/M_Door_Material.M_Door_Material
+[2020.05.06-21.29.48:556][140]LogContentValidation: Display: Validating ObjectRedirector /Game/Materials/Materials/DoorMaterial.DoorMaterial
+[2020.05.06-21.30.01:203][749]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/M_Frame_Material3EBDA16D4C3092B8D4A42E9D3129431C.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/M_Frame_Material.uasset'
+[2020.05.06-21.30.01:207][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Materials/Frame" FILE="C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Frame.uasset" SILENT=true
+[2020.05.06-21.30.01:235][749]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/Frame90ABB675480B2B8D56796FA4ED4C5148.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Frame.uasset'
+[2020.05.06-21.30.01:373][749]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.30.01:373][749]LogContentValidation: Display: Validating Material /Game/Materials/Materials/M_Frame_Material.M_Frame_Material
+[2020.05.06-21.30.01:373][749]LogContentValidation: Display: Validating ObjectRedirector /Game/Materials/Materials/Frame.Frame
+[2020.05.06-21.30.13:540][357]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/M_Handler_Material74CCD2F3462CBCF96E6A2387E863AF44.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/M_Handler_Material.uasset'
+[2020.05.06-21.30.13:773][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.05.06-21.30.13:825][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.05.06-21.30.13:866][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.05.06-21.30.13:912][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/SM_Door" FILE="C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Models/SM_Door.uasset" SILENT=true
+[2020.05.06-21.30.13:960][357]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/SM_DoorD61159554C6730B0BEF767816758BD67.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Models/SM_Door.uasset'
+[2020.05.06-21.30.14:059][357]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.30.14:059][357]LogContentValidation: Display: Validating Material /Game/Materials/Materials/M_Handler_Material.M_Handler_Material
+[2020.05.06-21.30.14:059][357]LogContentValidation: Display: Validating StaticMesh /Game/Models/SM_Door.SM_Door
+[2020.05.06-21.30.17:597][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.05.06-21.30.17:652][534]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/BuildingEscape986FFEFF4504F16C78E3DFA6E4A9FD67.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Levels/BuildingEscape.umap'
+[2020.05.06-21.30.17:727][534]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/BuildingEscape_BuiltData045AF45D45FCCB0654F8A5B75E9ABB0C.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Levels/BuildingEscape_BuiltData.uasset'
+[2020.05.06-21.30.17:744][534]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.30.17:744][534]LogContentValidation: Display: Validating World /Game/Levels/BuildingEscape.BuildingEscape
+[2020.05.06-21.30.17:744][534]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/BuildingEscape_BuiltData.BuildingEscape_BuiltData
+[2020.05.06-21.30.32:154][259]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/MI_Ceiling4692C3A247123A904D923A97159506F2.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/MI_Ceiling.uasset'
+[2020.05.06-21.30.32:184][259]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/Ceiling_InstB2D637B44AB7E83E8465F2B0F85985C4.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/Ceiling_Inst.uasset'
+[2020.05.06-21.30.32:297][259]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.30.32:297][259]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Maerial_Instances/MI_Ceiling.MI_Ceiling
+[2020.05.06-21.30.32:297][259]LogContentValidation: Display: Validating ObjectRedirector /Game/Materials/Materials/Maerial_Instances/Ceiling_Inst.Ceiling_Inst
+[2020.05.06-21.30.42:930][796]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/MI_FloorEA02C3A344874FC761BB30AB2DE55D42.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/MI_Floor.uasset'
+[2020.05.06-21.30.42:959][796]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/Floor_InstD74C1C184C099583CA2DDF9D5BC98432.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/Floor_Inst.uasset'
+[2020.05.06-21.30.43:069][796]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.30.43:069][796]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Maerial_Instances/MI_Floor.MI_Floor
+[2020.05.06-21.30.43:069][796]LogContentValidation: Display: Validating ObjectRedirector /Game/Materials/Materials/Maerial_Instances/Floor_Inst.Floor_Inst
+[2020.05.06-21.30.54:106][356]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/MI_FrameB77079674C1D521455EC9A96473C16F7.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/MI_Frame.uasset'
+[2020.05.06-21.30.54:136][356]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/Frame_InstE593EE2D4EE508BFD4A2D496F466082E.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/Frame_Inst.uasset'
+[2020.05.06-21.30.54:239][356]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.30.54:239][356]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Maerial_Instances/MI_Frame.MI_Frame
+[2020.05.06-21.30.54:239][356]LogContentValidation: Display: Validating ObjectRedirector /Game/Materials/Materials/Maerial_Instances/Frame_Inst.Frame_Inst
+[2020.05.06-21.31.08:641][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.05.06-21.31.08:691][596]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/BuildingEscape86A5342947478D4832AF25A0C34F6824.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Levels/BuildingEscape.umap'
+[2020.05.06-21.31.08:760][596]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/BuildingEscape_BuiltData5BE0D4F64F9C94FE247451A2383222D6.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Levels/BuildingEscape_BuiltData.uasset'
+[2020.05.06-21.31.08:778][596]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.31.08:778][596]LogContentValidation: Display: Validating World /Game/Levels/BuildingEscape.BuildingEscape
+[2020.05.06-21.31.08:778][596]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/BuildingEscape_BuiltData.BuildingEscape_BuiltData
+[2020.05.06-21.31.27:378][557]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/T_TexturesCom_CastleGate_1K_albe337E506D49229E775FB522B0E74765AA.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Textures/CastleGateTexture/T_TexturesCom_CastleGate_1K_albedo.uasset'
+[2020.05.06-21.31.27:605][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.05.06-21.31.27:664][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.05.06-21.31.27:704][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.06-21.31.27:767][557]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/MI_CeilingAA2A5F8E4D174590B34DE9B7DBD8E54E.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/MI_Ceiling.uasset'
+[2020.05.06-21.31.27:800][557]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/M_Door_Material887BDC9A4BF893AA53D650B7D1E605B5.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/M_Door_Material.uasset'
+[2020.05.06-21.31.27:850][557]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.31.27:850][557]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/CastleGateTexture/T_TexturesCom_CastleGate_1K_albedo.T_TexturesCom_CastleGate_1K_albedo
+[2020.05.06-21.31.27:850][557]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Maerial_Instances/MI_Ceiling.MI_Ceiling
+[2020.05.06-21.31.27:850][557]LogContentValidation: Display: Validating Material /Game/Materials/Materials/M_Door_Material.M_Door_Material
+[2020.05.06-21.31.34:976][376]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/T_TexturesCom_CastleGate_1K_aoCB5DF63B409D7328932F109DA118BB24.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Textures/CastleGateTexture/T_TexturesCom_CastleGate_1K_ao.uasset'
+[2020.05.06-21.31.35:176][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.05.06-21.31.35:241][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.05.06-21.31.35:280][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.05.06-21.31.35:328][376]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/MI_CeilingE3B1E1CA413C2D61B225E492C835127F.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/MI_Ceiling.uasset'
+[2020.05.06-21.31.35:354][376]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/M_Door_Material352C1A604CAFD012B44B048BAAF8CFE5.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/M_Door_Material.uasset'
+[2020.05.06-21.31.35:403][376]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.31.35:403][376]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/CastleGateTexture/T_TexturesCom_CastleGate_1K_ao.T_TexturesCom_CastleGate_1K_ao
+[2020.05.06-21.31.35:403][376]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Maerial_Instances/MI_Ceiling.MI_Ceiling
+[2020.05.06-21.31.35:403][376]LogContentValidation: Display: Validating Material /Game/Materials/Materials/M_Door_Material.M_Door_Material
+[2020.05.06-21.31.39:689][864]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/T_TexturesCom_CastleGate_1K_heigF4DD20FA42457DFA57EA92B8DE6BA243.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Textures/CastleGateTexture/T_TexturesCom_CastleGate_1K_height.uasset'
+[2020.05.06-21.31.39:896][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.05.06-21.31.39:946][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.05.06-21.31.39:986][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.06-21.31.40:032][864]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/MI_Ceiling3B5031844645D07EB4E9DD946F09E281.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/MI_Ceiling.uasset'
+[2020.05.06-21.31.40:056][864]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/M_Door_Material3A4DB0EE4DF47EC0CAA386B4537EED48.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/M_Door_Material.uasset'
+[2020.05.06-21.31.40:108][864]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.31.40:108][864]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/CastleGateTexture/T_TexturesCom_CastleGate_1K_height.T_TexturesCom_CastleGate_1K_height
+[2020.05.06-21.31.40:108][864]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Maerial_Instances/MI_Ceiling.MI_Ceiling
+[2020.05.06-21.31.40:108][864]LogContentValidation: Display: Validating Material /Game/Materials/Materials/M_Door_Material.M_Door_Material
+[2020.05.06-21.31.44:327][346]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/T_TexturesCom_CastleGate_1K_meta3D19A2314757DA427DC40AAD0DB245D2.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Textures/CastleGateTexture/T_TexturesCom_CastleGate_1K_metallic.uasset'
+[2020.05.06-21.31.44:533][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.05.06-21.31.44:602][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.05.06-21.31.44:641][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.05.06-21.31.44:679][346]AssetCheck: New page: Asset Save: T_TexturesCom_CastleGate_1K_metallic
+[2020.05.06-21.31.44:679][346]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/CastleGateTexture/T_TexturesCom_CastleGate_1K_metallic.T_TexturesCom_CastleGate_1K_metallic
+[2020.05.06-21.31.48:824][813]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/T_TexturesCom_CastleGate_1K_normCB643AED48F8C59B24189793E0BE3373.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Textures/CastleGateTexture/T_TexturesCom_CastleGate_1K_normal.uasset'
+[2020.05.06-21.31.49:076][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.05.06-21.31.49:140][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.05.06-21.31.49:182][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.06-21.31.49:226][813]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/MI_CeilingC573593541AF2ABADCEAEC9BD94367FB.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/MI_Ceiling.uasset'
+[2020.05.06-21.31.49:251][813]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/M_Door_MaterialA362EADB4ED225B95ABD1DABA12F5153.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/M_Door_Material.uasset'
+[2020.05.06-21.31.49:300][813]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.31.49:300][813]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/CastleGateTexture/T_TexturesCom_CastleGate_1K_normal.T_TexturesCom_CastleGate_1K_normal
+[2020.05.06-21.31.49:300][813]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Maerial_Instances/MI_Ceiling.MI_Ceiling
+[2020.05.06-21.31.49:300][813]LogContentValidation: Display: Validating Material /Game/Materials/Materials/M_Door_Material.M_Door_Material
+[2020.05.06-21.31.52:942][221]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/T_TexturesCom_CastleGate_1K_roug6706C10C46C69700E53446B175979C35.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Textures/CastleGateTexture/T_TexturesCom_CastleGate_1K_roughness.uasset'
+[2020.05.06-21.31.53:143][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.05.06-21.31.53:213][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.05.06-21.31.53:254][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.05.06-21.31.53:298][221]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/MI_Ceiling5036AC7144045F9FEEF95CA4C3A020BB.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/MI_Ceiling.uasset'
+[2020.05.06-21.31.53:324][221]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/M_Door_Material7713899C4C48CFD7F4A677B35975E562.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/M_Door_Material.uasset'
+[2020.05.06-21.31.53:385][221]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.31.53:385][221]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/CastleGateTexture/T_TexturesCom_CastleGate_1K_roughness.T_TexturesCom_CastleGate_1K_roughness
+[2020.05.06-21.31.53:385][221]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Maerial_Instances/MI_Ceiling.MI_Ceiling
+[2020.05.06-21.31.53:385][221]LogContentValidation: Display: Validating Material /Game/Materials/Materials/M_Door_Material.M_Door_Material
+[2020.05.06-21.32.05:256][584]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/T_TexturesCom_Metal_Damaged_1K_a583975074098BB22050F439425C9634E.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Textures/DamagedMetalTexture/T_TexturesCom_Metal_Damaged_1K_albedo.uasset'
+[2020.05.06-21.32.05:474][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.05.06-21.32.05:537][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.05.06-21.32.05:577][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.06-21.32.05:630][584]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/M_Handler_Material10623E70453F89B3E67510AF46DCACEE.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/M_Handler_Material.uasset'
+[2020.05.06-21.32.05:680][584]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.32.05:680][584]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/DamagedMetalTexture/T_TexturesCom_Metal_Damaged_1K_albedo.T_TexturesCom_Metal_Damaged_1K_albedo
+[2020.05.06-21.32.05:681][584]LogContentValidation: Display: Validating Material /Game/Materials/Materials/M_Handler_Material.M_Handler_Material
+[2020.05.06-21.32.09:037][956]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/T_TexturesCom_Metal_Damaged_1K_h96BC02084EEAD80A6B1C2AB9140964F5.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Textures/DamagedMetalTexture/T_TexturesCom_Metal_Damaged_1K_height.uasset'
+[2020.05.06-21.32.09:241][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.05.06-21.32.09:314][956]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.05.06-21.32.09:353][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.06-21.32.09:411][956]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/M_Handler_Material247D9888475A50A46ACC659B0C6C30B2.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/M_Handler_Material.uasset'
+[2020.05.06-21.32.09:460][956]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.32.09:460][956]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/DamagedMetalTexture/T_TexturesCom_Metal_Damaged_1K_height.T_TexturesCom_Metal_Damaged_1K_height
+[2020.05.06-21.32.09:460][956]LogContentValidation: Display: Validating Material /Game/Materials/Materials/M_Handler_Material.M_Handler_Material
+[2020.05.06-21.32.10:043][ 20]LogHttp: Warning: 000001511263AE80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B37B98D7E-43AB-999F-9057-E3BD3E5ABEB6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=51d1a4394ba393ba0b225bb80798071d%7Cb169f06f4eb14e0987f8fd4b0da0f095%7C313c0292-3bb0-4c30-9ced-ac78db71e817&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.05.06-21.32.10:043][ 20]LogHttp: Warning: 000001511263AE80: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.05.06-21.32.10:043][ 20]LogHttp: Warning: 000001511263AE80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x15160be7f70 [can pipeline])
+[2020.05.06-21.32.10:043][ 20]LogHttp: Warning: 000001511263AE80: libcurl info message cache 1 (Re-using existing connection! (#26) with host datarouter.ol.epicgames.com)
+[2020.05.06-21.32.10:043][ 20]LogHttp: Warning: 000001511263AE80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.86.70.22) port 443 (#26))
+[2020.05.06-21.32.10:043][ 20]LogHttp: Warning: 000001511263AE80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.05.06-21.32.10:043][ 20]LogHttp: Warning: 000001511263AE80: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.05.06-21.32.10:043][ 20]LogHttp: Warning: 000001511263AE80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.05.06-21.32.10:043][ 20]LogHttp: Warning: 000001511263AE80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.05.06-21.32.10:043][ 20]LogHttp: Warning: 000001511263AE80: libcurl info message cache 7 (Closing connection 26)
+[2020.05.06-21.32.10:043][ 20]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B37B98D7E-43AB-999F-9057-E3BD3E5ABEB6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=51d1a4394ba393ba0b225bb80798071d%7Cb169f06f4eb14e0987f8fd4b0da0f095%7C313c0292-3bb0-4c30-9ced-ac78db71e817&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.06-21.32.12:301][272]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/T_TexturesCom_Metal_Damaged_1K_m65C4CCDB401CA07EB30A89BFCDD15F89.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Textures/DamagedMetalTexture/T_TexturesCom_Metal_Damaged_1K_metallic.uasset'
+[2020.05.06-21.32.12:490][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.05.06-21.32.12:541][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.05.06-21.32.12:583][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.05.06-21.32.12:634][272]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/M_Handler_Material80504A6040CEAF7984AD1D8A60EB838F.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/M_Handler_Material.uasset'
+[2020.05.06-21.32.12:683][272]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.32.12:683][272]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/DamagedMetalTexture/T_TexturesCom_Metal_Damaged_1K_metallic.T_TexturesCom_Metal_Damaged_1K_metallic
+[2020.05.06-21.32.12:683][272]LogContentValidation: Display: Validating Material /Game/Materials/Materials/M_Handler_Material.M_Handler_Material
+[2020.05.06-21.32.16:100][646]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/T_TexturesCom_Metal_Damaged_1K_n5F231298421DB5B596C4F6AF1E1E9F83.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Textures/DamagedMetalTexture/T_TexturesCom_Metal_Damaged_1K_normal.uasset'
+[2020.05.06-21.32.16:378][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.05.06-21.32.16:445][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.05.06-21.32.16:484][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.05.06-21.32.16:530][646]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/M_Handler_MaterialA7FD00734CD5827E01A0E086B9ADAB75.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/M_Handler_Material.uasset'
+[2020.05.06-21.32.16:576][646]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.32.16:576][646]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/DamagedMetalTexture/T_TexturesCom_Metal_Damaged_1K_normal.T_TexturesCom_Metal_Damaged_1K_normal
+[2020.05.06-21.32.16:576][646]LogContentValidation: Display: Validating Material /Game/Materials/Materials/M_Handler_Material.M_Handler_Material
+[2020.05.06-21.32.19:729][  1]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/T_TexturesCom_Metal_Damaged_1K_r3D965AA343B548D60497B6AC0B6130EE.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Textures/DamagedMetalTexture/T_TexturesCom_Metal_Damaged_1K_roughness.uasset'
+[2020.05.06-21.32.19:933][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.06-21.32.19:999][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.05.06-21.32.20:039][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.05.06-21.32.20:090][  1]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/M_Handler_MaterialE9B80FD34C90FB4CB7DC3181CFB38C98.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/M_Handler_Material.uasset'
+[2020.05.06-21.32.20:137][  1]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.32.20:137][  1]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/DamagedMetalTexture/T_TexturesCom_Metal_Damaged_1K_roughness.T_TexturesCom_Metal_Damaged_1K_roughness
+[2020.05.06-21.32.20:137][  1]LogContentValidation: Display: Validating Material /Game/Materials/Materials/M_Handler_Material.M_Handler_Material
+[2020.05.06-21.32.21:899][200]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/T_TexturesCom_Metal_Damaged_1K_r0DAF0B6E4133752E6A41F282F3D579FB.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Textures/DamagedMetalTexture/T_TexturesCom_Metal_Damaged_1K_roughness.uasset'
+[2020.05.06-21.32.21:972][200]AssetCheck: New page: Asset Save: T_TexturesCom_Metal_Damaged_1K_roughness
+[2020.05.06-21.32.21:972][200]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/DamagedMetalTexture/T_TexturesCom_Metal_Damaged_1K_roughness.T_TexturesCom_Metal_Damaged_1K_roughness
+[2020.05.06-21.32.26:150][658]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/T_TexturesCom_Wall_Stone2_3x3_1K0EF0E3874EF8207BA92943A31A8D4A2A.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Textures/StoneWallTexture/T_TexturesCom_Wall_Stone2_3x3_1K_albedo.uasset'
+[2020.05.06-21.32.26:404][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.05.06-21.32.26:477][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.05.06-21.32.26:516][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.05.06-21.32.26:580][658]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/MI_Floor9AD037D048BEFB4DC2D86FAA4462EC77.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/MI_Floor.uasset'
+[2020.05.06-21.32.26:610][658]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/MI_FrameC04B1C644107570C0FC74EBACAAE6A48.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/MI_Frame.uasset'
+[2020.05.06-21.32.26:641][658]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/M_Frame_Material08BC2721487D99F311BA9987D0B4D5A3.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/M_Frame_Material.uasset'
+[2020.05.06-21.32.26:695][658]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.32.26:695][658]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/StoneWallTexture/T_TexturesCom_Wall_Stone2_3x3_1K_albedo.T_TexturesCom_Wall_Stone2_3x3_1K_albedo
+[2020.05.06-21.32.26:695][658]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Maerial_Instances/MI_Floor.MI_Floor
+[2020.05.06-21.32.26:695][658]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Maerial_Instances/MI_Frame.MI_Frame
+[2020.05.06-21.32.26:695][658]LogContentValidation: Display: Validating Material /Game/Materials/Materials/M_Frame_Material.M_Frame_Material
+[2020.05.06-21.32.29:670][982]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/T_TexturesCom_Wall_Stone2_3x3_1K23D5431A47BED3166700B8BFC15CCB9B.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Textures/StoneWallTexture/T_TexturesCom_Wall_Stone2_3x3_1K_ao.uasset'
+[2020.05.06-21.32.29:872][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.05.06-21.32.29:923][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.05.06-21.32.29:962][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.06-21.32.30:006][982]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/MI_FloorE60AA7E948B0D69E75F31D98F9460FE6.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/MI_Floor.uasset'
+[2020.05.06-21.32.30:030][982]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/MI_Frame2BB47925491B4F6BD796B4B0B3E4B2C7.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/MI_Frame.uasset'
+[2020.05.06-21.32.30:061][982]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/M_Frame_Material84DC6FBB405186B94EF4B9A693799931.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/M_Frame_Material.uasset'
+[2020.05.06-21.32.30:121][982]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.32.30:122][982]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/StoneWallTexture/T_TexturesCom_Wall_Stone2_3x3_1K_ao.T_TexturesCom_Wall_Stone2_3x3_1K_ao
+[2020.05.06-21.32.30:122][982]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Maerial_Instances/MI_Floor.MI_Floor
+[2020.05.06-21.32.30:122][982]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Maerial_Instances/MI_Frame.MI_Frame
+[2020.05.06-21.32.30:122][982]LogContentValidation: Display: Validating Material /Game/Materials/Materials/M_Frame_Material.M_Frame_Material
+[2020.05.06-21.32.33:205][317]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/T_TexturesCom_Wall_Stone2_3x3_1KE057D75E42C3591435D37FB2DD4EC177.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Textures/StoneWallTexture/T_TexturesCom_Wall_Stone2_3x3_1K_height.uasset'
+[2020.05.06-21.32.33:409][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.06-21.32.33:458][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.05.06-21.32.33:497][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.05.06-21.32.33:543][317]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/MI_Floor74988E65459AF1DEBB20E19493EB087A.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/MI_Floor.uasset'
+[2020.05.06-21.32.33:566][317]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/M_Frame_Material3DD1A81E4FDBA5AFC90AFCB8D80B8202.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/M_Frame_Material.uasset'
+[2020.05.06-21.32.33:615][317]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.32.33:615][317]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/StoneWallTexture/T_TexturesCom_Wall_Stone2_3x3_1K_height.T_TexturesCom_Wall_Stone2_3x3_1K_height
+[2020.05.06-21.32.33:615][317]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Maerial_Instances/MI_Floor.MI_Floor
+[2020.05.06-21.32.33:615][317]LogContentValidation: Display: Validating Material /Game/Materials/Materials/M_Frame_Material.M_Frame_Material
+[2020.05.06-21.32.36:704][653]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/T_TexturesCom_Wall_Stone2_3x3_1KEF6801E34DB90D92CF560F97ABB3476A.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Textures/StoneWallTexture/T_TexturesCom_Wall_Stone2_3x3_1K_normal.uasset'
+[2020.05.06-21.32.36:949][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.05.06-21.32.37:002][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.05.06-21.32.37:041][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.06-21.32.37:100][653]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/MI_FloorABAB1C6D4818A3FAABDCEFA5D305D77B.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/MI_Floor.uasset'
+[2020.05.06-21.32.37:125][653]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/MI_Frame88FCC30949B53235405C35B2FEABB7F4.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/MI_Frame.uasset'
+[2020.05.06-21.32.37:150][653]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/M_Frame_Material323F953C41B9CEBCD1DE48A2A5D66CC9.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/M_Frame_Material.uasset'
+[2020.05.06-21.32.37:203][653]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.32.37:203][653]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/StoneWallTexture/T_TexturesCom_Wall_Stone2_3x3_1K_normal.T_TexturesCom_Wall_Stone2_3x3_1K_normal
+[2020.05.06-21.32.37:203][653]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Maerial_Instances/MI_Floor.MI_Floor
+[2020.05.06-21.32.37:203][653]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Maerial_Instances/MI_Frame.MI_Frame
+[2020.05.06-21.32.37:203][653]LogContentValidation: Display: Validating Material /Game/Materials/Materials/M_Frame_Material.M_Frame_Material
+[2020.05.06-21.32.40:594][ 24]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/T_TexturesCom_Wall_Stone2_3x3_1K44BF1A9048A4B4835A4ECBB8D31D6F55.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Textures/StoneWallTexture/T_TexturesCom_Wall_Stone2_3x3_1K_roughness.uasset'
+[2020.05.06-21.32.40:797][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.05.06-21.32.40:847][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.05.06-21.32.40:888][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.05.06-21.32.40:942][ 24]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/MI_Floor6192B4D64F9641335636E293A2FFF4BF.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/MI_Floor.uasset'
+[2020.05.06-21.32.40:973][ 24]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/MI_Frame2610A8404C4AC8DABCE896B6E6FABC0A.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/MI_Frame.uasset'
+[2020.05.06-21.32.41:001][ 24]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/M_Frame_Material845A627B454D38820F66EB80D6326AB2.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/M_Frame_Material.uasset'
+[2020.05.06-21.32.41:053][ 24]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.32.41:053][ 24]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/StoneWallTexture/T_TexturesCom_Wall_Stone2_3x3_1K_roughness.T_TexturesCom_Wall_Stone2_3x3_1K_roughness
+[2020.05.06-21.32.41:053][ 24]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Maerial_Instances/MI_Floor.MI_Floor
+[2020.05.06-21.32.41:053][ 24]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Maerial_Instances/MI_Frame.MI_Frame
+[2020.05.06-21.32.41:053][ 24]LogContentValidation: Display: Validating Material /Game/Materials/Materials/M_Frame_Material.M_Frame_Material
+[2020.05.06-21.32.43:623][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.06-21.32.43:669][318]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/BuildingEscapeB078FF1945898E1D67089D8B5E31DEE4.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Levels/BuildingEscape.umap'
+[2020.05.06-21.32.43:735][318]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/BuildingEscape_BuiltDataD90C64AC4C61D60F6CCCFFBE726D1EF7.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Levels/BuildingEscape_BuiltData.uasset'
+[2020.05.06-21.32.43:753][318]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.32.43:753][318]LogContentValidation: Display: Validating World /Game/Levels/BuildingEscape.BuildingEscape
+[2020.05.06-21.32.43:753][318]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/BuildingEscape_BuiltData.BuildingEscape_BuiltData
+[2020.05.06-21.33.20:660][ 93]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/MI_Frame85C2BE0747936D3E270234B759D0611E.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/MI_Frame.uasset'
+[2020.05.06-21.33.20:700][ 93]AssetCheck: New page: Asset Save: MI_Frame
+[2020.05.06-21.33.20:700][ 93]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/MI_Frame.MI_Frame
+[2020.05.06-21.33.30:261][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.05.06-21.33.31:643][639]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.06-21.33.31:778][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.05.06-21.33.31:844][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.05.06-21.33.31:883][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.06-21.33.35:641][813]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Materials/Maerial_Instances/MI_Frame.MI_Frame
+[2020.05.06-21.34.05:514][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.05.06-21.34.05:529][957]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.06-21.34.06:736][957]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.05.06-21.34.06:736][957]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.05.06-21.34.06:740][957]TextureStreamingBuild: Display: Compiling optional shaders took 1.224 seconds.
+[2020.05.06-21.34.06:782][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.06-21.34.06:811][957]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/MI_FrameC5E63E334A9FAA1E26795E8DFE1EF3A9.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/MI_Frame.uasset'
+[2020.05.06-21.34.06:855][957]AssetCheck: New page: Asset Save: MI_Frame
+[2020.05.06-21.34.06:855][957]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Maerial_Instances/MI_Frame.MI_Frame
+[2020.05.06-21.34.18:664][527]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/SM_Door_Frame.SM_Door_Frame
+[2020.05.06-21.34.27:352][169]LogStaticMesh: Building static mesh SM_Door_Frame...
+[2020.05.06-21.34.27:375][169]LogStaticMesh: Built static mesh [0.02s] /Game/Models/SM_Door_Frame.SM_Door_Frame
+[2020.05.06-21.34.35:226][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/SM_Door_Frame" FILE="C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Models/SM_Door_Frame.uasset" SILENT=true
+[2020.05.06-21.34.35:267][881]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/SM_Door_Frame1C8694B94F334C7B61B949803CC9AEB1.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Models/SM_Door_Frame.uasset'
+[2020.05.06-21.34.35:338][881]AssetCheck: New page: Asset Save: SM_Door_Frame
+[2020.05.06-21.34.35:338][881]LogContentValidation: Display: Validating StaticMesh /Game/Models/SM_Door_Frame.SM_Door_Frame
+[2020.05.06-21.34.37:052][  8]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.06-21.34.37:052][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-21.36.01:994][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.05.06-21.36.02:009][472]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.06-21.36.02:307][472]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.05.06-21.36.02:307][472]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.05.06-21.36.02:309][472]TextureStreamingBuild: Display: Compiling optional shaders took 0.310 seconds.
+[2020.05.06-21.36.02:348][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.05.06-21.36.02:380][472]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/MI_Frame4F98A1384B3A02A06B6C6AADC24D4805.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Materials/Materials/Maerial_Instances/MI_Frame.uasset'
+[2020.05.06-21.36.02:399][472]AssetCheck: New page: Asset Save: MI_Frame
+[2020.05.06-21.36.02:399][472]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials/Maerial_Instances/MI_Frame.MI_Frame
+[2020.05.06-21.36.03:474][579]LogSlate: Window 'MI_Frame' being destroyed
+[2020.05.06-21.36.03:488][579]LogSlate: Window 'MI_Frame' being destroyed
+[2020.05.06-21.36.03:518][579]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.06-21.36.03:518][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-21.36.11:083][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.05.06-21.36.11:139][470]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/BuildingEscape4A112CC042E4DD902C89D9AB623C384C.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Levels/BuildingEscape.umap'
+[2020.05.06-21.36.11:218][470]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/BuildingEscape_BuiltData32ED6A4244894216CCD305AAC505A898.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Levels/BuildingEscape_BuiltData.uasset'
+[2020.05.06-21.36.11:237][470]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.36.11:237][470]LogContentValidation: Display: Validating World /Game/Levels/BuildingEscape.BuildingEscape
+[2020.05.06-21.36.11:238][470]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/BuildingEscape_BuiltData.BuildingEscape_BuiltData
+[2020.05.06-21.36.15:566][901]MapCheck: New page: Map Check
+[2020.05.06-21.36.15:580][901]Cmd: MAP REBUILD ALLVISIBLE
+[2020.05.06-21.36.15:580][901]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.05.06-21.36.15:586][901]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=false
+[2020.05.06-21.36.15:597][901]LightingResults: New page: Lighting Build - 7 maj 2020, 01:36:15
+[2020.05.06-21.36.15:604][901]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.05.06-21.36.15:609][901]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.05.06-21.36.15:609][901]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.05.06-21.36.15:610][901]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.05.06-21.36.15:610][901]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2596
+[2020.05.06-21.36.20:124][901]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.05.06-21.36.20:125][901]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.05.06-21.36.20:125][901]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.05.06-21.36.20:125][901]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.05.06-21.36.20:125][901]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.05.06-21.36.20:125][901]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.05.06-21.36.20:320][901]LogEditorBuildUtils: Build time 0:04
+[2020.05.06-21.36.20:422][902]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Frame, compiling. 
+[2020.05.06-21.36.20:453][902]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.05.06-21.36.20:453][902]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.05.06-21.36.20:453][902]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Frame, compiling. 
+[2020.05.06-21.36.20:495][902]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.05.06-21.36.20:495][902]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.05.06-21.36.21:542][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.05.06-21.36.22:897][913]Job is a success!
+[2020.05.06-21.36.23:374][914]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2020.05.06-21.36.23:374][914]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.05.06-21.36.23:374][914]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2020.05.06-21.36.23:374][914]LogVolumetricLightmapImport:      Bricks at depth
+[2020.05.06-21.36.23:374][914]LogVolumetricLightmapImport:          0: 7.1% covering 100.0% of volume
+[2020.05.06-21.36.23:374][914]LogVolumetricLightmapImport:          1: 7.1% covering 1.6% of volume
+[2020.05.06-21.36.23:374][914]LogVolumetricLightmapImport:          2: 85.7% covering 0.3% of volume
+[2020.05.06-21.36.23:374][914]LogVolumetricLightmapImport:      Bricks in each level
+[2020.05.06-21.36.23:374][914]LogVolumetricLightmapImport:          BuildingEscape 			 14 bricks 	 100.0% (Persistent Level)
+[2020.05.06-21.36.23:391][914]LightingResults: Warning: SpotLight5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.05.06-21.36.23:391][914]LightingResults: Warning: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.05.06-21.36.23:476][914]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.05.06-21.36.23:476][914]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2020.05.06-21.36.23:476][914]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.05.06-21.36.23:476][914]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2020.05.06-21.36.23:476][914]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.05.06-21.36.23:476][914]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.05.06-21.36.23:476][914]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 32X32)
+[2020.05.06-21.36.23:476][914]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 256X32)
+[2020.05.06-21.36.23:476][914]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 256X128)
+[2020.05.06-21.36.23:476][914]Lightmass on DESKTOP-5BUVG8F: 1.39 sec total, 148 ms importing, 22 ms setup, 71 ms photons, 1.11 sec processing, 0 ms extra exporting [55/55 mappings]. Threads: 12.2 sec total, 643 ms processing.
+[2020.05.06-21.36.23:483][914]LogStaticLightingSystem: BuildingEscape_BuiltData storing lightmap data for 10 meshes in 3 LightmapResourceClusters (3.3 Meshes per cluster).
+[2020.05.06-21.36.23:528][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.05.06-21.36.23:567][914]LogStaticLightingSystem: Illumination: 7.63 sec (25 ms encoding lightmaps, 12 ms encoding shadowmaps)
+[2020.05.06-21.36.23:567][914]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 6 textures
+[2020.05.06-21.36.23:567][914]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.05.06-21.36.24:130][914]DumpUnbuiltLightIteractions
+[2020.05.06-21.36.24:130][914]Lights with unbuilt interactions: 0
+[2020.05.06-21.36.24:130][914]
+[2020.05.06-21.36.24:130][914]Primitives with unbuilt interactions: 0
+[2020.05.06-21.36.24:222][915]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.05.06-21.36.24:222][915]MapCheck: New page: BuildingEscape - 7 maj 2020, 01:36:24
+[2020.05.06-21.36.24:223][915]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,499ms to complete.
+[2020.05.06-21.36.28:250][927]LogSlate: Window 'Message Log' being destroyed
+[2020.05.06-21.36.28:256][927]LogSlate: Window 'Message Log' being destroyed
+[2020.05.06-21.36.49:343][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.05.06-21.36.49:393][425]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/BuildingEscape1696CFBD4D2BFFB4E8D264B623EB77B7.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Levels/BuildingEscape.umap'
+[2020.05.06-21.36.49:465][425]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/BuildingEscape_BuiltData740631A74080D6F2945619B98FAF9C39.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Levels/BuildingEscape_BuiltData.uasset'
+[2020.05.06-21.36.49:488][425]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-21.36.49:488][425]LogContentValidation: Display: Validating World /Game/Levels/BuildingEscape.BuildingEscape
+[2020.05.06-21.36.49:488][425]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/BuildingEscape_BuiltData.BuildingEscape_BuiltData
+[2020.05.06-22.11.23:418][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.05.06-22.11.23:485][116]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/BuildingEscapeD1468D1A475C6F1AF89EDA969CD454C5.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Levels/BuildingEscape.umap'
+[2020.05.06-22.11.23:565][116]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/BuildingEscape_BuiltDataC70571C04BAACB2F15BBC0AC390C541C.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Levels/BuildingEscape_BuiltData.uasset'
+[2020.05.06-22.11.23:582][116]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-22.11.23:582][116]LogContentValidation: Display: Validating World /Game/Levels/BuildingEscape.BuildingEscape
+[2020.05.06-22.11.23:582][116]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/BuildingEscape_BuiltData.BuildingEscape_BuiltData
