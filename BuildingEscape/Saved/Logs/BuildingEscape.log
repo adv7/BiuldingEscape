@@ -27121,3 +27121,117 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.07-18.39.15:488][173]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.07-18.39.15:488][173]LogContentValidation: Display: Validating World /Game/Levels/BuildingEscape.BuildingEscape
 [2020.05.07-18.39.15:488][173]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/BuildingEscape_BuiltData.BuildingEscape_BuiltData
+[2020.05.07-18.50.02:335][578]Candidate modules for hot reload:
+[2020.05.07-18.50.02:335][578]  BuildingEscape
+[2020.05.07-18.50.02:336][578]Launching UnrealBuildTool... [F:/EpicGames_games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,5740 Win64 Development -TargetType=Editor -Project="C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/BuildingEscape.uproject" "C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.05.07-18.50.02:338][578]Warning: Starting HotReload took  0.0s.
+[2020.05.07-18.50.12:390][992]CompilerResultsLog: New page: Compilation - 7 maj 2020, 22:50:12
+[2020.05.07-18.50.12:390][992]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\cud4x\OneDrive\Dokumenty\Unreal Projects\BiuldingEscape).
+[2020.05.07-18.50.12:390][992]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.05.07-18.50.12:390][992]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\cud4x\OneDrive\Dokumenty\Unreal Projects\BiuldingEscape\BuildingEscape\BuildingEscape.uproject" "C:\Users\cud4x\OneDrive\Dokumenty\Unreal Projects\BiuldingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.07-18.50.12:390][992]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 7,1872446 seconds
+[2020.05.07-18.50.12:390][992]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.05.07-18.50.12:390][992]CompilerResultsLog: Using Visual Studio 2019 14.25.28612 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.07-18.50.12:390][992]CompilerResultsLog: Building 6 actions with 12 processes...
+[2020.05.07-18.50.12:390][992]CompilerResultsLog:   [1/6] BuildingEscape.init.gen.cpp
+[2020.05.07-18.50.12:390][992]CompilerResultsLog:   [2/6] OpenDoor.cpp
+[2020.05.07-18.50.12:390][992]CompilerResultsLog:   [3/6] OpenDoor.gen.cpp
+[2020.05.07-18.50.12:391][992]CompilerResultsLog:   [4/6] UE4Editor-BuildingEscape-5740.lib
+[2020.05.07-18.50.12:391][992]CompilerResultsLog:      Trwa tworzenie biblioteki C:\Users\cud4x\OneDrive\Dokumenty\Unreal Projects\BiuldingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5740.lib i obiektu C:\Users\cud4x\OneDrive\Dokumenty\Unreal Projects\BiuldingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5740.exp
+[2020.05.07-18.50.12:391][992]CompilerResultsLog:   [5/6] UE4Editor-BuildingEscape-5740.dll
+[2020.05.07-18.50.12:391][992]CompilerResultsLog:      Trwa tworzenie biblioteki C:\Users\cud4x\OneDrive\Dokumenty\Unreal Projects\BiuldingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5740.suppressed.lib i obiektu C:\Users\cud4x\OneDrive\Dokumenty\Unreal Projects\BiuldingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-5740.suppressed.exp
+[2020.05.07-18.50.12:391][992]CompilerResultsLog:   [6/6] BuildingEscapeEditor.target
+[2020.05.07-18.50.12:391][992]CompilerResultsLog: Total time in Parallel executor: 1,31 seconds
+[2020.05.07-18.50.12:391][992]CompilerResultsLog: Total execution time: 9,67 seconds
+[2020.05.07-18.50.12:391][992]LogMainFrame: MainFrame: Module compiling took 10.059 seconds
+[2020.05.07-18.50.12:430][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.05.07-18.50.12:450][992]LogClass: Could not find existing class OpenDoor in package /Script/BuildingEscape for HotReload, assuming new class
+[2020.05.07-18.50.12:456][992]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2020.05.07-18.50.12:572][992]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0005 seconds. Added 3 classes and 2 folders.
+[2020.05.07-18.50.12:576][992]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.05.07-18.50.12:656][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.05.07-18.50.12:672][992]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 3020 classes and 722 folders.
+[2020.05.07-18.50.12:672][992]Display: HotReload took 10.3s.
+[2020.05.07-18.50.14:382][997]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.07-18.50.14:400][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.07-18.50.14:400][997]PIE: New page: PIE session: BuildingEscape (7 maj 2020, 22:50:14)
+[2020.05.07-18.50.14:400][997]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BuildingEscape
+[2020.05.07-18.50.14:408][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008157s)
+[2020.05.07-18.50.14:409][997]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.05.07-18.50.14:409][997]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2020.05.07-18.50.14:409][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BuildingEscape.BuildingEscape to /Game/Levels/UEDPIE_0_BuildingEscape.BuildingEscape (0.009388s)
+[2020.05.07-18.50.14:449][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.05.07-18.50.14:450][997]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.07-18.50.14:450][997]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.07-18.50.14:450][997]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.07-18.50.14:450][997]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.07-18.50.14:450][997]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.07-18.50.14:450][997]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.07-18.50.14:450][997]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.07-18.50.14:450][997]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.07-18.50.14:450][997]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.07-18.50.14:450][997]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.07-18.50.14:467][997]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.07-18.50.14:467][997]LogAudioMixer: Display: Name: Speakers (2 — Realtek High Definition Audio)
+[2020.05.07-18.50.14:467][997]LogAudioMixer: Display: Is Default: Yes
+[2020.05.07-18.50.14:467][997]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.07-18.50.14:467][997]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.07-18.50.14:467][997]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.07-18.50.14:467][997]LogAudioMixer: Display: Channel Order:
+[2020.05.07-18.50.14:467][997]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.07-18.50.14:467][997]LogAudioMixer: Display: 1: FrontRight
+[2020.05.07-18.50.14:481][997]LogAudioMixer: Display: Using Audio Device Speakers (2 — Realtek High Definition Audio)
+[2020.05.07-18.50.14:483][997]LogInit: FAudioDevice initialized.
+[2020.05.07-18.50.14:491][997]LogLoad: Game class is 'GameModeBase'
+[2020.05.07-18.50.14:493][997]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 0) at 2020.05.07-20.50.14
+[2020.05.07-18.50.14:493][997]LogWorld: Bringing up level for play took: 0.001109
+[2020.05.07-18.50.14:493][997]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.05.07-18.50.14:495][997]LogTemp: Warning: Sphere_2 is at position X=-60.000 Y=260.000 Z=40.000
+[2020.05.07-18.50.14:495][997]LogTemp: Warning: Cube_5 is at position X=-70.000 Y=-160.000 Z=50.000
+[2020.05.07-18.50.14:496][997]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_BuildingEscape 0,256
+[2020.05.07-18.50.49:882][234]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-18.50.49:882][234]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-18.50.49:883][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.07-18.50.49:883][234]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_BuildingEscape
+[2020.05.07-18.50.49:883][234]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-18.50.49:883][234]LogWorld: UWorld::CleanupWorld for BuildingEscape, bSessionEnded=true, bCleanupResources=true
+[2020.05.07-18.50.49:883][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-18.50.49:892][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.07-18.50.49:895][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.07-18.50.49:934][234]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.07-18.50.49:937][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.07-18.50.49:940][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.05.07-18.50.49:994][236]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.05.07-18.50.51:182][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.05.07-18.50.51:235][370]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/BuildingEscape8CED288C4491E1EAFA6FD1826CC0A81E.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Levels/BuildingEscape.umap'
+[2020.05.07-18.50.51:308][370]LogSavePackage: Moving 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Saved/BuildingEscape_BuiltData75D52D63416EB5D5CBBC01B6A8C5C327.tmp' to 'C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/Content/Levels/BuildingEscape_BuiltData.uasset'
+[2020.05.07-18.50.51:323][370]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.07-18.50.51:323][370]LogContentValidation: Display: Validating World /Game/Levels/BuildingEscape.BuildingEscape
+[2020.05.07-18.50.51:323][370]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/BuildingEscape_BuiltData.BuildingEscape_BuiltData
+[2020.05.07-18.50.57:841][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2020.05.07-18.53.44:754][341]Candidate modules for hot reload:
+[2020.05.07-18.53.44:754][341]  BuildingEscape
+[2020.05.07-18.53.44:755][341]Launching UnrealBuildTool... [F:/EpicGames_games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,853 Win64 Development -TargetType=Editor -Project="C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/BuildingEscape.uproject" "C:/Users/cud4x/OneDrive/Dokumenty/Unreal Projects/BiuldingEscape/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.05.07-18.53.44:757][341]Warning: Starting HotReload took  0.0s.
+[2020.05.07-18.53.54:593][437]CompilerResultsLog: New page: Compilation - 7 maj 2020, 22:53:54
+[2020.05.07-18.53.54:593][437]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\cud4x\OneDrive\Dokumenty\Unreal Projects\BiuldingEscape).
+[2020.05.07-18.53.54:593][437]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2020.05.07-18.53.54:593][437]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\cud4x\OneDrive\Dokumenty\Unreal Projects\BiuldingEscape\BuildingEscape\BuildingEscape.uproject" "C:\Users\cud4x\OneDrive\Dokumenty\Unreal Projects\BiuldingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.07-18.53.54:593][437]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 7,1077368 seconds
+[2020.05.07-18.53.54:594][437]CompilerResultsLog: Building BuildingEscapeEditor...
+[2020.05.07-18.53.54:594][437]CompilerResultsLog: Using Visual Studio 2019 14.25.28612 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.07-18.53.54:594][437]CompilerResultsLog: Building 6 actions with 12 processes...
+[2020.05.07-18.53.54:594][437]CompilerResultsLog:   [1/6] BuildingEscape.init.gen.cpp
+[2020.05.07-18.53.54:594][437]CompilerResultsLog:   [2/6] OpenDoor.cpp
+[2020.05.07-18.53.54:594][437]CompilerResultsLog:   [3/6] OpenDoor.gen.cpp
+[2020.05.07-18.53.54:594][437]CompilerResultsLog:   [4/6] UE4Editor-BuildingEscape-0853.lib
+[2020.05.07-18.53.54:594][437]CompilerResultsLog:      Trwa tworzenie biblioteki C:\Users\cud4x\OneDrive\Dokumenty\Unreal Projects\BiuldingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0853.lib i obiektu C:\Users\cud4x\OneDrive\Dokumenty\Unreal Projects\BiuldingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0853.exp
+[2020.05.07-18.53.54:594][437]CompilerResultsLog:   [5/6] UE4Editor-BuildingEscape-0853.dll
+[2020.05.07-18.53.54:594][437]CompilerResultsLog:      Trwa tworzenie biblioteki C:\Users\cud4x\OneDrive\Dokumenty\Unreal Projects\BiuldingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0853.suppressed.lib i obiektu C:\Users\cud4x\OneDrive\Dokumenty\Unreal Projects\BiuldingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0853.suppressed.exp
+[2020.05.07-18.53.54:594][437]CompilerResultsLog:   [6/6] BuildingEscapeEditor.target
+[2020.05.07-18.53.54:594][437]CompilerResultsLog: Total time in Parallel executor: 1,34 seconds
+[2020.05.07-18.53.54:594][437]CompilerResultsLog: Total execution time: 9,70 seconds
+[2020.05.07-18.53.54:594][437]LogMainFrame: MainFrame: Module compiling took 9.843 seconds
+[2020.05.07-18.53.54:632][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.05.07-18.53.54:650][437]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 3020 classes and 722 folders.
+[2020.05.07-18.53.54:650][437]Display: HotReload took  9.9s.

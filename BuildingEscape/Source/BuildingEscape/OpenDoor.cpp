@@ -25,7 +25,7 @@ void UOpenDoor::BeginPlay()
 	// Setting variables
 	InitialYaw = GetOwner()->GetActorRotation().Yaw;
 	CurrentYaw = InitialYaw;
-	TargetYaw = InitialYaw - TargetYaw;
+	OpenAngle = InitialYaw - OpenAngle;
 	ActorThatOpen = GetWorld()->GetFirstPlayerController()->GetPawn();
 
 	if (!PressurePlate)
@@ -57,7 +57,7 @@ void UOpenDoor::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompon
 
 void UOpenDoor::OpenDoor(float DeltaTime)
 {
-	CurrentYaw = FMath::FInterpTo(CurrentYaw, TargetYaw, DeltaTime, DoorMoveDuration);
+	CurrentYaw = FMath::FInterpTo(CurrentYaw, OpenAngle, DeltaTime, DoorMoveDuration);
 	FRotator DoorRotation(0.f, CurrentYaw, 0.f);
 
 	GetOwner()->SetActorRotation(DoorRotation);
