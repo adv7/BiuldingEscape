@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "BuildingEscape",
-			"Path": "C:\\Users\\cud4x\\Documents\\Unreal Projects\\BuildingEscape\\BuildingEscape\\Source\\BuildingEscape.Target.cs",
+			"Path": "C:\\Users\\Krystian\\Documents\\Unreal Projects\\Escape\\BuildingEscape\\Source\\BuildingEscape.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "BuildingEscapeEditor",
-			"Path": "C:\\Users\\cud4x\\Documents\\Unreal Projects\\BuildingEscape\\BuildingEscape\\Source\\BuildingEscapeEditor.Target.cs",
+			"Path": "C:\\Users\\Krystian\\Documents\\Unreal Projects\\Escape\\BuildingEscape\\Source\\BuildingEscapeEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

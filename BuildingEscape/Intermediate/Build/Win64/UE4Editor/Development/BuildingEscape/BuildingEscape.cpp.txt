@@ -1,2 +1,2 @@
-C:\Users\cud4x\Documents\Unreal Projects\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\Definitions.BuildingEscape.h
-C:\Users\cud4x\Documents\Unreal Projects\BuildingEscape\BuildingEscape\Source\BuildingEscape\BuildingEscape.h
+C:\Users\Krystian\Documents\Unreal Projects\Escape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\Definitions.BuildingEscape.h
+C:\Users\Krystian\Documents\Unreal Projects\Escape\BuildingEscape\Source\BuildingEscape\BuildingEscape.h

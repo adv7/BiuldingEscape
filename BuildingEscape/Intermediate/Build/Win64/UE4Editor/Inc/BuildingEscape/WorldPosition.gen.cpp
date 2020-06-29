@@ -1,4 +1,4 @@
-// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+// Copyright Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -73,7 +73,7 @@ void EmptyLinkFunctionForGeneratedCodeWorldPosition() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UWorldPosition, 1238675546);
+	IMPLEMENT_CLASS(UWorldPosition, 805609022);
 	template<> BUILDINGESCAPE_API UClass* StaticClass<UWorldPosition>()
 	{
 		return UWorldPosition::StaticClass();

@@ -28,8 +28,9 @@
 /we4458
 /we4459
 /wd4463
-/wd4838
 /we4668
+/wd4244
+/wd4838
 /I .
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime
@@ -58,6 +59,9 @@
 /I Runtime\Messaging\Public
 /I Runtime\MessagingCommon\Public
 /I Runtime\RenderCore\Public
+/I Runtime\Analytics
+/I Runtime\Analytics\AnalyticsET\Public
+/I Runtime\Analytics\Analytics\Public
 /I Runtime\Sockets\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry
 /I Runtime\AssetRegistry\Public
@@ -98,13 +102,15 @@
 /I Runtime\Experimental\FieldSystem\Source
 /I Runtime\Experimental\FieldSystem\Source\FieldSystemCore\Public
 /I Runtime\SignalProcessing\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AudioExtensions
+/I Runtime\AudioExtensions\Public
+/I Runtime\AudioMixerCore\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd
 /I Editor
 /I Programs\UnrealLightmass\Public
 /I Developer\Android\AndroidDeviceDetection\Public\Interfaces
 /I Editor\UnrealEd\Classes
 /I Editor\UnrealEd\Public
-/I Editor\BspMode\Public
 /I Developer
 /I Developer\DirectoryWatcher\Public
 /I Editor\Documentation\Public
@@ -138,11 +144,9 @@
 /I Editor\AudioEditor\Classes
 /I Editor\AudioEditor\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer
-/I Runtime\AudioMixer\Private
 /I Runtime\AudioMixer\Classes
 /I Runtime\AudioMixer\Public
 /I Developer\TargetPlatform\Public
-/I ThirdParty\libSampleRate\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\LevelEditor
 /I Editor\LevelEditor\Public
 /I Developer\Settings\Public
@@ -171,6 +175,7 @@
 /I Editor\StructViewer\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowser
 /I Editor\ContentBrowser\Public
+/I ThirdParty\libSampleRate\Public
 /I Runtime\NetworkFileSystem\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\UMG
 /I Runtime\UMG\Public
@@ -186,8 +191,6 @@
 /I Runtime\PropertyPath\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem
 /I Runtime\NavigationSystem\Public
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\MeshDescriptionOperations
-/I Developer\MeshDescriptionOperations\Public
 /I Developer\MeshBuilder\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MaterialShaderQualitySettings
 /I Runtime\MaterialShaderQualitySettings\Classes
@@ -227,7 +230,6 @@
 /I Runtime\Experimental\GeometryCollectionSimulationCore\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I Runtime\AudioMixerCore\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -251,17 +253,17 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/I "C:\Users\cud4x\Documents\Unreal Projects\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine"
-/Yc"C:\Users\cud4x\Documents\Unreal Projects\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\cud4x\Documents\Unreal Projects\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\cud4x\Documents\Unreal Projects\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp"
-/Fo"C:\Users\cud4x\Documents\Unreal Projects\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+/I "C:\Users\Krystian\Documents\Unreal Projects\Escape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine"
+/Yc"C:\Users\Krystian\Documents\Unreal Projects\Escape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\Krystian\Documents\Unreal Projects\Escape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\Krystian\Documents\Unreal Projects\Escape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp"
+/Fo"C:\Users\Krystian\Documents\Unreal Projects\Escape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 /TP
 /GR-
 /W4

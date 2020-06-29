@@ -1,4 +1,4 @@
-// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+// Copyright Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -74,7 +74,7 @@ void EmptyLinkFunctionForGeneratedCodeBuildingEscapeGameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ABuildingEscapeGameModeBase, 1412268173);
+	IMPLEMENT_CLASS(ABuildingEscapeGameModeBase, 1846219366);
 	template<> BUILDINGESCAPE_API UClass* StaticClass<ABuildingEscapeGameModeBase>()
 	{
 		return ABuildingEscapeGameModeBase::StaticClass();
